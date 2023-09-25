@@ -1,0 +1,8 @@
+*.pyc
+*.egg-info
+dist/
+TODO.md
+/ATTIC
+*-pygbag.???
+/build
+/dist
